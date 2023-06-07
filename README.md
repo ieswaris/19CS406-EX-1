@@ -5,7 +5,6 @@
 # AIM : 
 To implement socket programming date and time display from client to server using TCPSockets
 
-
 # ALGORITHM :
 
 # Server:
@@ -57,7 +56,6 @@ s.send("acknowledgement recived from the server".encode())
  ```
 # OUTPUT:
 ![image](https://github.com/ieswaris/19CS406-EX-1/assets/127847210/dc6bb83a-463f-4f6a-8596-fa400e099d39)
-
 # RESULT:
 Thus, python program to perform stop and wait protocol was successfully executed.
 
